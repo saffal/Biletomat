@@ -1,10 +1,11 @@
 body{
 	margin:0;
+	background-image: url("images/bg.png");
 }
 #container{
 	width:1000px;
-	height: 1000px;
-	background-color: blue;
+	
+	background-image: url("images/bg.png");
   	
   	margin: auto;
   
@@ -15,7 +16,9 @@ body{
     background-position: center; 
 	background-repeat: no-repeat;
     height:120px;
-    background-color: green;
+    
+    
+    
 
     
 }
@@ -36,15 +39,23 @@ margin-right:2%;
 width:180px;
 }
 */
+
+
 .navbar{
 	background-color: red;
 	padding: 2%;
 	
 }
 
+.main{
+	background-color: white;
+	height: 250px;
+}
 
 .footer{
-	clear:both;
+	background-color: gray;
+	height:20px;
+	
 }
 
 
