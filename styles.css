@@ -1,0 +1,50 @@
+body{
+	margin:0;
+}
+#container{
+	width:1000px;
+	height: 1000px;
+	background-color: blue;
+  	
+  	margin: auto;
+  
+}
+
+.logo{
+	background-image: url("images/logo.png");
+    background-position: center; 
+	background-repeat: no-repeat;
+    height:120px;
+    background-color: green;
+
+    
+}
+
+input{
+	
+color: #ccc;
+width: 150px;
+padding: 6px 15px 6px 35px;
+border-radius: 20px;
+box-shadow: 0 1px 0 #ccc inset;
+transition:500ms all ease;
+margin-right:2%;
+}
+
+/*input:hover
+{
+width:180px;
+}
+*/
+.navbar{
+	background-color: red;
+	padding: 2%;
+	
+}
+
+
+.footer{
+	clear:both;
+}
+
+
